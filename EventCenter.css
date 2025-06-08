@@ -144,6 +144,48 @@ iframe {
     margin-right: auto;
 }
 
+/* Contact Us Page */
+
+h6 {
+    font-size: 50px;
+    text-align: center;
+    color: salmon;
+    border: none;
+    background-color: black;
+    margin: 50px;
+}
+
+#contactus div {
+    position: relative;
+    left: -10%;
+    margin: -60px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#contactus form {
+    position: relative;
+    right: -10%;
+    margin: -60px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    background-color: darkcyan;
+    color: black;
+}
+
+
+
+
 
 
    
