@@ -105,6 +105,13 @@ h3 {
     margin: 50px;
 }
 
+.desc {
+    font-size: 20px;
+    margin: 10px;
+    padding: 100px;
+    text-align: center;
+}
+
 /* Menu Page */
 
 h4 {
