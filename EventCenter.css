@@ -185,7 +185,7 @@ footer {
 }
 
 button:hover {
-    background-color: darkcyan;
+    background-color: rgb(6, 178, 178);
     color: black;
 }
 
